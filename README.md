@@ -31,7 +31,7 @@ O sistema utiliza quatro fontes de dados principais:
 
 ### Indicadores Temporais
 - Performance trimestral consolidada
-- Tempo médio de fechamento por oportunidade
+- Tempo médio de fechamento por oportunidade (em atualização futura)
 
 ## Execução
 Utilizando o gerenciador de pacotes uv:
