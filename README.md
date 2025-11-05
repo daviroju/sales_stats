@@ -34,9 +34,9 @@ O sistema utiliza quatro fontes de dados principais:
 - Tempo médio de fechamento por oportunidade
 
 ## Execução
-
+Utilizando o gerenciador de pacotes uv:
 ```bash
-python main.py
+uv run main.py
 ```
 
 Os relatórios são gerados automaticamente, incluindo gráficos salvos em `figures/`.
